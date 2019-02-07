@@ -2,7 +2,8 @@
   "heap": [
     {
       "name": "ClientHandler",
-      "type": "ClientHandler"
+      "type": "ClientHandler",
+      "coment": "myComment"
     },
     {
       "name": "ApiProtectionFilter",
