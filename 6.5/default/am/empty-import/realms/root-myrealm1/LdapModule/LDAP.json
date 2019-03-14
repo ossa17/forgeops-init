@@ -1,6 +1,6 @@
 {
   "metadata" : {
-    "realm" : "/",
+    "realm" : "/myrealm1",
     "amsterVersion" : "6.5.0",
     "entityType" : "LdapModule",
     "entityId" : "LDAP",
@@ -10,7 +10,7 @@
     "_id" : "LDAP",
     "authenticationLevel" : 0,
     "userBindPassword" : null,
-    "userBindPassword-encrypted" : "AAAAA0FFUwIQVLmkwwfdPDLhVxr5mfegE2YmUvND6tP/WIzcjMzAhr19zFZ02JSsXg==",
+    "userBindPassword-encrypted" : "AAAAA0FFUwIQYZEL/9jU/hg/ZmhcJNxdWuDf2E+t06FwJOdoRMvID6RamaGOrwppug==",
     "searchScope" : "SUBTREE",
     "returnUserDN" : true,
     "profileAttributeMappings" : [ ],

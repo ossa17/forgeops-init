@@ -1,6 +1,6 @@
 {
   "metadata" : {
-    "realm" : "/",
+    "realm" : "/myrealm1",
     "amsterVersion" : "6.5.0",
     "entityType" : "OpenDJ",
     "entityId" : "OpenDJ",
@@ -48,7 +48,7 @@
       "sun-idrepo-ldapv3-config-organization_name" : "ou=identities",
       "sun-idrepo-ldapv3-config-connection-mode" : "LDAP",
       "sun-idrepo-ldapv3-config-authpw" : null,
-      "sun-idrepo-ldapv3-config-authpw-encrypted" : "AAAAA0FFUwIQJ2mkpvCJNFWlX6IBQoT8+ypQK2r7TMqLMUzM4npuaiNGT22YVC8Vzw=="
+      "sun-idrepo-ldapv3-config-authpw-encrypted" : "AAAAA0FFUwIQQfEIPBz2UHlS+ZUqmrIcrZOapQ8KekOdPNqso5/lpVB0WWdyzJflLw=="
     },
     "cachecontrol" : {
       "sun-idrepo-ldapv3-dncache-enabled" : true,
