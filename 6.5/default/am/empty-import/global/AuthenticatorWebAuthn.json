@@ -11,7 +11,7 @@
     "defaults" : {
       "authenticatorWebAuthnDeviceSettingsEncryptionScheme" : "NONE",
       "authenticatorWebAuthnDeviceSettingsEncryptionKeystorePassword" : null,
-      "authenticatorWebAuthnDeviceSettingsEncryptionKeystorePassword-encrypted" : "AAAAA0FFUwIQWMGxMXIQMBqTwraxVd2xvcrettKTvJa/ud8V1m5W7xiK00Wi9n4OCw==",
+      "authenticatorWebAuthnDeviceSettingsEncryptionKeystorePassword-encrypted" : "AAAAA0FFUwIQ6WmrAnpDaY60mnHE863Op0dLPl8Y3gl6YF0aRxCbXVXtNL2Aft2Rnw==",
       "authenticatorWebAuthnDeviceSettingsEncryptionKeystoreType" : "JCEKS",
       "webauthnAttrName" : "webauthnDeviceProfiles",
       "authenticatorWebAuthnDeviceSettingsEncryptionKeystore" : "/home/forgerock/openam/keystore.jceks"
