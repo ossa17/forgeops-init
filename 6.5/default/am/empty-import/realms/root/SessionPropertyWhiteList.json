@@ -8,7 +8,7 @@
   },
   "data" : {
     "_id" : "",
-    "sessionPropertyWhitelist" : [ "myOne", "AMCtxId" ],
+    "sessionPropertyWhitelist" : [ "myOne", "AMCtxId", "yours" ],
     "_type" : {
       "_id" : "amSessionPropertyWhitelist",
       "name" : "SessionPropertyWhitelistService",
